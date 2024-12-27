@@ -1,0 +1,22 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap");
+
+.Header {
+  display: flex;
+  justify-content: start;
+  width: 95vw;
+  font-family: "Rubik Vinyl", cursive;
+  margin-top: 1rem;
+} */
+
+.Header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.profile {
+  margin-left: 22em;
+  background-image: linear-gradient(white, rgb(14, 70, 105));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

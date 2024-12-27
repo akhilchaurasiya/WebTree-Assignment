@@ -1,0 +1,43 @@
+.navbar-profile-pic img {
+  width: 130px;
+  height: 130px;
+  border-radius: 100px;
+  display: flex;
+  vertical-align: middle;
+  margin-left: 35px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.navbar-profile-pic img:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.nav-item {
+  color: white;
+  /* text-align: center; */
+  margin-left: 2em;
+  /* margin-top: 2em; */
+}
+
+.nav-link {
+  margin-top: 8px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.nav-link svg {
+  margin-right: 15px;
+}
+
+.nav-link:hover {
+  color: #f29f67;
+}
+
+.hover-text {
+  color: whitesmoke;
+  position: absolute;
+  top: 11em;
+  left: 4.8em;
+}

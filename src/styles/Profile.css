@@ -1,0 +1,11 @@
+.component {
+  color: black;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.card:hover {
+  background-color: aqua;
+}
